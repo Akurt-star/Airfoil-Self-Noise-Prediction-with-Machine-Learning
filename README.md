@@ -52,3 +52,11 @@ Performance was evaluated using **Mean Squared Error (MSE)** and **R² Score**:
 
 ## Disclaimer
  - This repository is part of a university term project. Please do not copy, submit, or reuse this work as your own academic project. It is intended for educational and reference purposes only.
+
+## 👥 Contributors
+
+- **Alpaslan Kurt** (200106006015)  
+- **Yusuf Yazıcıoğlu** (200106006013)  
+
+Guided by **Asst. Prof. Mahmud Rasih Çelenlioğlu**  
+_Department of Engineering, Gebze Technical University_
