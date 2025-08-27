@@ -49,3 +49,6 @@ Performance was evaluated using **Mean Squared Error (MSE)** and **R² Score**:
 
 ## Notes
 - **You can find detailed project as pdf file in the repository**
+
+## Disclaimer
+ - This repository is part of a university term project. Please do not copy, submit, or reuse this work as your own academic project. It is intended for educational and reference purposes only.
